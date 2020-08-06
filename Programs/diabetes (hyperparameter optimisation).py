@@ -183,10 +183,6 @@ from keras.utils import np_utils
 from keras import backend as K
 from keras import regularizers, optimizers
 
-
-# In[35]:
-
-
 def build_model():
     # create model
     model = Sequential()
